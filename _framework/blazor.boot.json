@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WarsawGame",
   "resources": {
-    "hash": "sha256-B4v6lUzF8PpM1Mr40JJs/K5QnV2fKbDk0TyKWKPQu/k=",
+    "hash": "sha256-4sCyWkR2DiGe9JsVCrJlJ7M4V1kTh9XTLCVaWyW2tGA=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.6jom9uhwsf.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -34,8 +34,6 @@
       "Microsoft.Extensions.FileProviders.Abstractions.wasm": "sha256-IUopixuV8E09mP+TIgRp/lXEbeacXbUTW7cu0v5B9Tc=",
       "Microsoft.Extensions.FileProviders.Physical.wasm": "sha256-MS+zB0xkKhKk/QdE32ZwKtdlrLMLI/y2NAKPUWhcBVg=",
       "Microsoft.Extensions.FileSystemGlobbing.wasm": "sha256-AnWUKd0qJ8ZNKkRC0AFK2cjjszB7reXiP+bXdIi8bic=",
-      "Microsoft.Extensions.Localization.Abstractions.wasm": "sha256-/cbKro/iHTt02hewrByb6oqdeUsxxfFAyRKKr7GpBNI=",
-      "Microsoft.Extensions.Localization.wasm": "sha256-hcJFVGS1x8m5ZeBhvyIEBqYSQKIzBLnbw77jq3TNVmA=",
       "Microsoft.Extensions.Logging.Abstractions.wasm": "sha256-tK0X7g8GSvOT9rBWiaC2wD8CgWfZWXQhpxAY/LdOgxQ=",
       "Microsoft.Extensions.Logging.wasm": "sha256-gRNqDIITN9/LJz459bgijHJ1O+l5fzsybyrFhw0Iqa4=",
       "Microsoft.Extensions.Options.wasm": "sha256-ypENcDL9nBOxxOHWbsTdHQMQOaU2tzbMY9po3Con954=",
@@ -47,8 +45,8 @@
       "Microsoft.Win32.Primitives.wasm": "sha256-d0lkYbvvBvSnQPJNF/l2wJuZc2X9m1EJ8DHxBIVYssE=",
       "Microsoft.Win32.Registry.wasm": "sha256-Rt2m9BagcLtQOdRPe1Z1wEdVDhpDiElJI56Wak3uTCM=",
       "mscorlib.wasm": "sha256-KvqZaNpjwhrOuzE4b4aMFsI+VUTyiWfoDI4zn4l9BM8=",
-      "MudBlazor.wasm": "sha256-G3T9QIW4XWqTAwrtBCRLf+mxagtOo5lAYwJCCjs2E80=",
       "netstandard.wasm": "sha256-v+s7sWxtOM6bnOvC0jFrtnm6uMfbDymwl2nHNgbS2LM=",
+      "Radzen.Blazor.wasm": "sha256-bTQ1AsfxwF+NebPrfbl6Lk0Ci2RKALAkngChV5WcvMY=",
       "System.AppContext.wasm": "sha256-mFfP2Arj1JJ/G2KQfFEmu226MKfR7Wndcb1ZCKR9f8c=",
       "System.Buffers.wasm": "sha256-aRoQjwNAVVC58TX4/3W94kK/oCkyEQEsecc6Lh+duwQ=",
       "System.Collections.Concurrent.wasm": "sha256-YnISnJiu8n3DT0w4FsULnneZAB3BVe/FodStXkm+kJM=",
@@ -102,6 +100,7 @@
       "System.IO.Pipes.wasm": "sha256-Xidt+dfM7PvvAitP41toZj3jKGGIFf3STiSWpStxgvw=",
       "System.IO.UnmanagedMemoryStream.wasm": "sha256-xsKAopJA9mj65+EoT8rwR/EKBKyHtwJU0lT8Z24WgC0=",
       "System.IO.wasm": "sha256-kkk+g1Od4JpxCIdn7Km0vUER6rrxtRdt5QgiGffrBEw=",
+      "System.Linq.Dynamic.Core.wasm": "sha256-zY4O55eQ9gC1F0jl4MFsfpX6oCP3eabUwmK1PIrgx3Q=",
       "System.Linq.Expressions.wasm": "sha256-upjAuhJ82wTgdhYe/MZBDsPkmwbuZRwi8Lm2QnzblIo=",
       "System.Linq.Parallel.wasm": "sha256-dlHW643drSB6V8JSBrmz6vf8144n+sX2GUW6Eo4dWKo=",
       "System.Linq.Queryable.wasm": "sha256-r7tZ3484oe9U07AQJM06JE/RZOIu2hFryRIbYKETdtM=",
@@ -210,7 +209,7 @@
       "System.Xml.XmlSerializer.wasm": "sha256-qRZyqw+CaFrfV/1oHypXnYDsWU01u2WfLW+if9D1Wh0=",
       "System.Xml.XPath.wasm": "sha256-ujEsqxLLcW/5bs23VLmb6nqywwZQs/er5k4Kwm6xyHM=",
       "System.Xml.XPath.XDocument.wasm": "sha256-49MXC8Y2mPsHMMVhds6D0CxChPejQexSuj+vK38IcPo=",
-      "WarsawGame.wasm": "sha256-K0wrMnza63b1P5jET61B+if8V8p22+yRnBFRasbRmRU=",
+      "WarsawGame.wasm": "sha256-rXjO0Zwm02kIlpDhM4w0fquOiLfu4xJoIUQPExsoSsI=",
       "WindowsBase.wasm": "sha256-maV+xv8deA/4cpKXsyNIhhUg6MzPSgWMikX0rEhDiIc="
     }
   },
