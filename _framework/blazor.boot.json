@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WarsawGame",
   "resources": {
-    "hash": "sha256-4sCyWkR2DiGe9JsVCrJlJ7M4V1kTh9XTLCVaWyW2tGA=",
+    "hash": "sha256-liu4RaMJYDy9Zg2H8okaEjnUW0LO+To/9/6h50PKUvQ=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.6jom9uhwsf.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -209,7 +209,7 @@
       "System.Xml.XmlSerializer.wasm": "sha256-qRZyqw+CaFrfV/1oHypXnYDsWU01u2WfLW+if9D1Wh0=",
       "System.Xml.XPath.wasm": "sha256-ujEsqxLLcW/5bs23VLmb6nqywwZQs/er5k4Kwm6xyHM=",
       "System.Xml.XPath.XDocument.wasm": "sha256-49MXC8Y2mPsHMMVhds6D0CxChPejQexSuj+vK38IcPo=",
-      "WarsawGame.wasm": "sha256-rXjO0Zwm02kIlpDhM4w0fquOiLfu4xJoIUQPExsoSsI=",
+      "WarsawGame.wasm": "sha256-L/SuEpskRhDhp4zFLCKxP9XKtlrr8Pcfz39ybspHKlc=",
       "WindowsBase.wasm": "sha256-maV+xv8deA/4cpKXsyNIhhUg6MzPSgWMikX0rEhDiIc="
     }
   },
