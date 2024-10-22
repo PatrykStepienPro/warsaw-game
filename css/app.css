@@ -101,3 +101,7 @@ a, .btn-link {
 code {
     color: #c02d76;
 }
+
+.justify-end{
+    justify-content: end;
+}
